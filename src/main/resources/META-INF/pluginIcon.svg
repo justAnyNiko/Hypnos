@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- License: Apache. Made by Carbon Design: https://github.com/carbon-design-system/carbon -->
+
+<svg
+   width="32px"
+   height="32px"
+   viewBox="0 0 32 32"
+   id="icon"
+   version="1.1"
+   sodipodi:docname="pluginIcon.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="18.009126"
+     inkscape:cx="18.435098"
+     inkscape:cy="21.516869"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icon" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient48"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop48" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop49" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Cubes"
+       preserveAspectRatio="none"
+       id="pattern7"
+       patternTransform="matrix(-0.42287899,-0.2441493,0.2441493,-0.42287899,-0.71024473,6.4878286)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="142"
+       height="123"
+       patternTransform="scale(0.4)"
+       id="Cubes"
+       preserveAspectRatio="none"
+       style="fill:#000000"
+       x="0"
+       y="0"
+       inkscape:label="Cubes"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="path14"
+         style="fill-opacity:0.6;stroke-width:2;stroke-miterlimit:10"
+         d="M 0.00195313,0.001953 V 0.0039061 L 35.509766,20.503906 71.009766,0.0078124 106.50977,20.503906 142,0.0136718 V 0.001953 Z" />
+      <path
+         id="path16"
+         style="fill-opacity:0.3;stroke-width:2;stroke-miterlimit:10"
+         d="m 35.503902,61.5 0.0039,0.002 v 41 L 0,123.00195 V 81.998047 Z M 142.01171,0 l 0.004,0.002 v 41 l -35.5079,20.499953 V 20.498047 Z m -71.000002,0 0.0039,0.002 v 41 L 35.507806,61.501953 V 20.498047 Z m 35.492192,61.5 0.004,0.002 v 41 L 71,123.00195 V 81.998047 Z" />
+      <path
+         id="path18"
+         style="fill-opacity:1;stroke-width:2;stroke-miterlimit:10"
+         d="m 106.49609,61.5 -0.004,0.002 v 41 L 142,123.00195 V 81.998047 Z M 71.0039,0 71,0.002 v 41 l 35.50781,20.499953 V 20.498047 Z m -71,0 L 0,0.002 v 41 L 35.507806,61.501953 V 20.498047 Z m 35.492194,61.5 -0.0039,0.002 v 41 L 71,123.00195 V 81.998047 Z" />
+      <path
+         id="path20"
+         style="fill-opacity:0.6;stroke-width:2;stroke-miterlimit:10"
+         d="m 70.998047,41.001953 -35.5,20.496094 L 0,41.003906 v 40.998047 l 0.00195313,0.002 35.49999987,-20.496094 35.5,20.496094 L 106.50195,61.507812 142,82.001953 V 41.003906 l -0.002,-0.002 -35.5,20.496094 z" />
+      <path
+         id="path26"
+         style="fill-opacity:0.6;stroke-width:2;stroke-miterlimit:10"
+         d="M 35.505859,102.50195 0.00195313,123 v 0.002 H 142 v -0.008 l -35.49414,-20.49219 -35.500001,20.49609 z" />
+    </pattern>
+    <style
+       id="style1">
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient48"
+       id="linearGradient49"
+       x1="19.546245"
+       y1="26.079248"
+       x2="28.871248"
+       y2="26.079248"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     d="m 28.5039,8.1362 -12,-7 c -0.311377,-0.18165067 -0.696423,-0.18165067 -1.0078,0 l -12,7 C 3.1888869,8.3154214 2.9999865,8.6443313 3,9 v 14 c -1.35e-5,0.355669 0.1888869,0.684579 0.4961,0.8638 l 12,7 c 0.311377,0.181651 0.696423,0.181651 1.0078,0 l 12,-7 C 28.811113,23.684579 29.000014,23.355669 29,23 V 9 C 29.000014,8.6443313 28.811113,8.3154214 28.5039,8.1362 Z M 16,3.1577 26.0156,9 16,14.8423 5.9844,9 Z m -11,7.5835 10,5.833 V 28.2588 L 5,22.4258 Z M 17,28.2588 V 16.5742 l 10,-5.833 v 11.6846 z"
+     id="path1"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccc"
+     style="stroke-width:0.9;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1;paint-order:stroke markers fill" />
+  <rect
+     id="_Transparent_Rectangle_"
+     data-name="&lt;Transparent Rectangle&gt;"
+     class="cls-1"
+     width="32"
+     height="32" />
+  <text
+     xml:space="preserve"
+     style="font-size:21.5405px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;fill:url(#pattern7);fill-opacity:1;stroke-width:1.79505"
+     x="3.7785573"
+     y="35.090084"
+     id="text1"
+     transform="scale(1.1844938,0.8442425)"><tspan
+       id="tspan1"
+       x="3.7785573"
+       y="35.090084"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.5405px;font-family:'JetBrainsMono Nerd Font Propo';-inkscape-font-specification:'JetBrainsMono Nerd Font Propo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#pattern7);fill-opacity:1;stroke-width:1.79505" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.8403px;font-family:'JetBrainsMono Nerd Font Propo';-inkscape-font-specification:'JetBrainsMono Nerd Font Propo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.496;stroke-dasharray:none;stroke-opacity:0.81673306;paint-order:stroke markers fill"
+     x="18.256653"
+     y="32.626545"
+     id="text46"
+     transform="scale(1.0363655,0.96491055)"><tspan
+       sodipodi:role="line"
+       id="tspan46"
+       x="18.256653"
+       y="32.626545"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.496;stroke-dasharray:none;stroke-opacity:0.81673306;paint-order:stroke markers fill">+</tspan></text>
+</svg>

@@ -1,0 +1,52 @@
+
+<idea-plugin>
+    <id>Hypnos</id>
+    <name>Hypnos</name>
+    <vendor url="https://github.com/justAnyNiko">Niko</vendor>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <resource-bundle>messages.MyMessageBundle</resource-bundle>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <projectConfigurable
+                id="dev.niko.hypnos.itemGenerator"
+                displayName="Hypnos"
+                parentId="tools"
+                instance="dev.niko.hypnos.localStorage.PluginConfigHandler"
+        />
+
+    </extensions>
+
+    <actions>
+        <action
+                id="dev.niko.hypnos.addHandlers.GenerateSimpleBlockAction"
+                class="dev.niko.hypnos.addHandlers.GenerateSimpleBlockAction"
+                text="Generate Mod Block"
+                description="Generate a simple block"
+        >
+
+            <add-to-group
+                    group-id="MainToolbarRight"
+                    anchor="last"/>
+
+            <keyboard-shortcut
+                    keymap="$default"
+                    first-keystroke="ctrl alt I"/>
+        </action>
+        <action
+                id="dev.niko.hypnos.addHandlers.GenerateItemAction"
+                class="dev.niko.hypnos.addHandlers.GenerateItemAction"
+                text="Generate Mod Item"
+                description="Generate an item">
+
+            <add-to-group
+                    group-id="MainToolbarRight"
+                    anchor="last"/>
+
+            <keyboard-shortcut
+                    keymap="$default"
+                    first-keystroke="ctrl alt I"/>
+        </action>
+    </actions>
+</idea-plugin>
